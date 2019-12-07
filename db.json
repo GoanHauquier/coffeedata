@@ -1,4 +1,5 @@
-[
+{
+  "coffees": [
   {
     "id": 1,
     "title": "Coffee 1",
@@ -15,3 +16,4 @@
     "type": "Latte"
   }
 ]
+}
