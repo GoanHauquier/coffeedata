@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Coffee 1",
+    "type": "Espresso"
+  },
+  {
+    "id": 2,
+    "title": "Coffee 2",
+    "type": "Cappuccino"
+  },
+  {
+    "id": 3,
+    "title": "Coffee 3",
+    "type": "Latte"
+  }
+]
